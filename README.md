@@ -40,5 +40,5 @@ Projeto [backend](https://github.com/Jhonatan-Pereira/node_json_serve).
 
 Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
 
-[viewport1]: https://raw.githubusercontent.com/Jhonatan-Pereira/angular_material_crud/master/assets/viewport1.png "Viewport1"
-[viewport2]: https://raw.githubusercontent.com/Jhonatan-Pereira/angular_material_crud/master/assets/viewport2.png "Viewport2"
+[viewport1]: https://raw.githubusercontent.com/Jhonatan-Pereira/angular_material_crud/master/src/assets/viewport1.png "Viewport1"
+[viewport2]: https://raw.githubusercontent.com/Jhonatan-Pereira/angular_material_crud/master/src/assets/viewport2.png "Viewport2"
