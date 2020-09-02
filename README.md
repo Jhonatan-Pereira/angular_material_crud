@@ -33,7 +33,7 @@ ng serve
 
 Clique em [http://localhost:4200/](http://localhost:4200/) para visualizar no browser.
 
-Projeto [backend](https://github.com/Jhonatan-Pereira/node_json_serve).
+Projeto [backend](https://github.com/Jhonatan-Pereira/node_json_server).
 
 
 ## Author
